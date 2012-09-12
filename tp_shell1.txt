@@ -1,0 +1,6 @@
+
+
+
+Écrire un petit script shell qui crée le répertoire /tmp/toto s'il
+n'existe pas.
+

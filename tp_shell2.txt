@@ -1,0 +1,6 @@
+Afficher le nombre d'utilisateurs utilisant chaque shell avec
+cut, sort, uniq et le fichier /etc/passwd.
+
+6 /bin/bash 
+2 /bin/false 
+4 /bin/nologin
