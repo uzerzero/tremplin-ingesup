@@ -8,3 +8,5 @@ echo "Premier argument : <$1>"
 echo "Second argument : <$2>"
 echo "3eme argument : <$3>"
 echo "Arguments fournis : <$@>"
+
+echo "Code de retour de la dernière commande : $?"
