@@ -8,6 +8,8 @@ if [[ $entree == "q" ]]
 then
  break
 fi
+args="$args\n$entree"
 done
+echo -e "Arguments: $args"
 
 
